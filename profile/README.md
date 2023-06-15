@@ -1,4 +1,9 @@
 <img src="https://raw.githubusercontent.com/C23-PS008/.github/main/OPet%20Banner.png" alt="opet-banner"/>
+
+## About OPet
+
+OPet is an app designed to connect pet owners who are no longer able to care for their pets with individuals seeking to adopt. Our goal is to reduce the number of pets that are not cared for by their owners and to provide a safe and loving home for every pet.
+
 <!--
 
 **Here are some ideas to get you started:**
