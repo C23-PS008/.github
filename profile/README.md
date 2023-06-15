@@ -15,6 +15,8 @@ OPet is an app designed to connect pet owners who are no longer able to care for
 |CC    | C230DSY2004 | Nafasya Rahma Safitra  | Universitas Lampung | [nafasyarahma](https://github.com/nafasyarahma) |
 |MD    | A220DSX2803 | Ichsan Nulmuhlis | Universitas Komputer Indonesia | [ichsnn](https://github.com/ichsnn) |
 
+## Try the App
+[OPet v1.0.0](https://github.com/C23-PS008/opet-android-app/releases/tag/v1.0.0)
 <!--
 
 **Here are some ideas to get you started:**
