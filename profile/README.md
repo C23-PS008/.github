@@ -20,7 +20,7 @@ OPet is an app designed to connect pet owners who are no longer able to care for
 https://github.com/C23-PS008/.github/assets/72180474/b1be0e9d-285f-4720-860c-338815b55b52
 
 ## Try the App
-[OPet v1.0.0](https://github.com/C23-PS008/opet-android-app/releases/tag/v1.0.0)
+[OPet v0.0.1-alpha](https://github.com/C23-PS008/opet-android-app/releases/tag/v1.0.0)
 <!--
 
 **Here are some ideas to get you started:**
