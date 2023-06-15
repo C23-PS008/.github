@@ -4,6 +4,17 @@
 
 OPet is an app designed to connect pet owners who are no longer able to care for their pets with individuals seeking to adopt. Our goal is to reduce the number of pets that are not cared for by their owners and to provide a safe and loving home for every pet.
 
+## Our Team
+
+|Roles | Member ID   | Name     | University | Github |
+|:----:|:-----------:|:--------:|:------------:|:-------:|
+|ML    | M220DSX1858 | Raihan Syah Sukana Putra | Universitas Komputer Indonesia | [RaihanSyahSP](https://github.com/RaihanSyahSP) |
+|ML    | M220DKX4078 | Daffa Albari | Universitas Komputer Indonesia | [daaffalbari](https://github.com/daaffalbari) |
+|ML    | M230DSY1758 | Safiira Rahmah Linisa | Universitas Lampung | [safiirarahmah](https://github.com/safiirarahmah) |
+|CC    | C368DSX2901 | Kadek Wijaya Kusuma Yasa | Universitas Udayana | [kusumayasa](https://github.com/kusumayasa) |
+|CC    | C230DSY2004 | Nafasya Rahma Safitra  | Universitas Lampung | [nafasyarahma](https://github.com/nafasyarahma) |
+|MD    | A220DSX2803 | Ichsan Nulmuhlis | Universitas Komputer Indonesia | [ichsnn](https://github.com/ichsnn) |
+
 <!--
 
 **Here are some ideas to get you started:**
