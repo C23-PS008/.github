@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img src="https://raw.githubusercontent.com/C23-PS008/.github/main/OPet%20Banner.png" alt="opet-banner"/>
 <!--
 
 **Here are some ideas to get you started:**
